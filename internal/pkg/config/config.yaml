@@ -1,0 +1,7 @@
+---
+app:
+  name: Taskman
+data_dir: ${HOME}/.local/share/taskman
+config_path: ${HOME}/.config/taskman/config.yaml
+database:
+  filename: taskman.db

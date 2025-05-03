@@ -1,3 +1,0 @@
-base_dir: $HOME/.config/taskman
-database:
-  filename: taskman.db
